@@ -1,0 +1,56 @@
+{
+  "version": 1.0,
+  "message": "🎉 ยินดีต้อนรับสู่ DEK WATT VPN  🎉\nวันนี้คือวันแรกที่เราเปิดให้ใช้งานอย่างเป็นทางการ!\n\nรองรับ AIS Play + เน็ตกันรั่ว\n\nรองรับ TRUE โปร VDO\n\nแตะ ยืนยัน เพื่อใช้งานเวอร์ชันแรกไปพร้อมกัน 🚀",
+  "data": [
+    {
+      "name": "THSERVER AIS PLAY 01",
+      "detail": "",
+      "content": "vless://e1c78b08-0e42-4331-bf46-9d2c615d0591@servers-01.dekwat.online:8080?path=%2F&security=&encryption=none&host=www.speedtest.net&type=ws#dekwatt-ais-yaf22q3x"
+    },
+    {
+      "name": "THSERVER AIS PLAY 02",
+      "detail": "",
+      "content": "vless://e1c78b08-0e42-4331-bf46-9d2c615d0591@servers-02.dekwat.online:8080?path=%2F&security=&encryption=none&host=www.speedtest.net&type=ws#dekwatt-ais-yaf22q3x"
+    },
+    {
+      "name": "THSERVER AIS PLAY 03",
+      "detail": "",
+      "content": "vless://e1c78b08-0e42-4331-bf46-9d2c615d0591@servers-03.dekwat.online:8080?path=%2F&security=&encryption=none&host=www.speedtest.net&type=ws#dekwatt-ais-yaf22q3x"
+    },
+    {
+      "name": "THSERVER AIS PLAY 04",
+      "detail": "",
+      "content": "vless://e1c78b08-0e42-4331-bf46-9d2c615d0591@servers-04.dekwat.online:8080?path=%2F&security=&encryption=none&host=www.speedtest.net&type=ws#dekwatt-ais-yaf22q3x"
+    },
+    {
+      "name": "THSERVER AIS PLAY 05",
+      "detail": "",
+      "content": "vless://e1c78b08-0e42-4331-bf46-9d2c615d0591@servers-05.dekwat.online:8080?path=%2F&security=&encryption=none&host=www.speedtest.net&type=ws#dekwatt-ais-yaf22q3x"
+    },
+    {
+      "name": "THSERVER TRUE VDO 01",
+      "detail": "",
+      "content": "vless://004ef416-f8d3-49d7-a551-7977b772a427@cdn-cf.zoom.us:80?path=%2F&security=&encryption=none&host=servers-01.dekwat.online&type=ws#dekwatt-bwj0pjib"
+    },
+    {
+      "name": "THSERVER TRUE VDO 02",
+      "detail": "",
+      "content": "vless://004ef416-f8d3-49d7-a551-7977b772a427@cdn-cf.zoom.us:80?path=%2F&security=&encryption=none&host=servers-02.dekwat.online&type=ws#dekwatt-bwj0pjib"
+    },
+    {
+      "name": "THSERVER TRUE VDO 03",
+      "detail": "",
+      "content": "vless://004ef416-f8d3-49d7-a551-7977b772a427@cdn-cf.zoom.us:80?path=%2F&security=&encryption=none&host=servers-03.dekwat.online&type=ws#dekwatt-bwj0pjib"
+    },
+    {
+      "name": "THSERVER TRUE VDO 04",
+      "detail": "",
+      "content": "vless://004ef416-f8d3-49d7-a551-7977b772a427@cdn-cf.zoom.us:80?path=%2F&security=&encryption=none&host=servers-04.dekwat.online&type=ws#dekwatt-bwj0pjib"
+    },
+    {
+      "name": "THSERVER TRUE VDO 05",
+      "detail": "",
+      "content": "vless://004ef416-f8d3-49d7-a551-7977b772a427@cdn-cf.zoom.us:80?path=%2F&security=&encryption=none&host=servers-05.dekwat.online&type=ws#dekwatt-bwj0pjib"
+    }
+  ]
+}
